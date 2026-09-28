@@ -591,6 +591,7 @@ with st.sidebar:
 <p>⚡ Instant price prediction</p>
 <p>📊 ML-based analysis</p>
 <p>🏠 Property feature evaluation</p>
+<p>📊 Made by - Hitesh Jadav</p>
 </div>
 """, unsafe_allow_html=True)
 
